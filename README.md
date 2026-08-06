@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0875-koko-eating-bananas](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 ## Math
 |  |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
