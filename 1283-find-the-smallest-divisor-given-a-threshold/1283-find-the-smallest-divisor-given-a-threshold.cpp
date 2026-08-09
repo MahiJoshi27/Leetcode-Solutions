@@ -1,26 +1,26 @@
 class Solution {
 public:
     int smallestDivisor(vector<int>& nums, int threshold) {
-        
+
         int low = 1;
         int high = *max_element(nums.begin(), nums.end());
 
         while (low <= high) {
-            
+
             int mid = low + (high - low) / 2;
 
             int sum = 0;
 
-            for (int x : nums) {
-                sum += (x + mid - 1) / mid;
+            for (int i = 0; i < nums.size(); i++) {
+                sum += ceil((double)nums[i] / mid);
             }
 
             if (sum <= threshold) {
-                // mid valid hai
+                // mid possible answer hai
                 high = mid - 1;
             }
             else {
-                // mid chhota hai
+                // divisor chhota hai
                 low = mid + 1;
             }
         }
