@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0148-sort-list](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [1657-determine-if-two-strings-are-close](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sliding Window
@@ -153,4 +155,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0148-sort-list](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0148-sort-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
