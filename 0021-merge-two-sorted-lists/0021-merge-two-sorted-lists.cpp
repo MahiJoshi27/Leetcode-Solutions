@@ -8,34 +8,21 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-
- class Solution {
+class Solution {
 public:
-    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        
-        ListNode* dummy = new ListNode(-1);
-        ListNode* temp = dummy;
-
-        while (list1 != NULL && list2 != NULL) {
-            
-            if (list1->val <= list2->val) {
-                temp->next = list1;
-                list1 = list1->next;
-            }
-            else {
-                temp->next = list2;
-                list2 = list2->next;
-            }
-
-            temp = temp->next;
+    ListNode* mergeTwoLists(ListNode* head1, ListNode* head2) {
+        if(head1==nullptr || head2==nullptr){
+            return head1==nullptr ? head2 : head1;
         }
 
-        // Jo list bach gayi usko attach kar do
-        if (list1 != NULL)
-            temp->next = list1;
-        else
-            temp->next = list2;
-
-        return dummy->next;
+        //case1 
+        if(head1->val <= head2->val ){
+            head1->next= mergeTwoLists(head1->next , head2);
+            return head1;
+        }
+        else{
+            head2->next= mergeTwoLists(head2->next , head1);
+            return head2;
+        }
     }
 };
