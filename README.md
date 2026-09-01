@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0128-longest-consecutive-sequence](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0217-contains-duplicate](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [1207-unique-number-of-occurrences](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [1657-determine-if-two-strings-are-close](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sliding Window
