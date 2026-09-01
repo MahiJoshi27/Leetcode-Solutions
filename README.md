@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1929-concatenation-of-array](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Binary Search
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Union-Find
 |  |
