@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1922-count-good-numbers](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1922-count-good-numbers) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1922-count-good-numbers) |
 ## Linked List
 |  |
 | ------- |
