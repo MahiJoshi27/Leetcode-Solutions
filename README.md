@@ -184,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
