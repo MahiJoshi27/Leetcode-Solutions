@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0185-department-top-three-salaries](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0185-department-top-three-salaries) |
 | [0584-find-customer-referee](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0595-big-countries) |
 ## Backtracking
