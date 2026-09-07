@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0148-sort-list](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
@@ -200,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
