@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1148-article-views-i) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 ## Backtracking
 |  |
 | ------- |
