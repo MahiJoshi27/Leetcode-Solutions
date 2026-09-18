@@ -1,44 +1,37 @@
 class Solution {
 public:
 
-    void solve(vector<int>& candidates, int target,
-               int index, vector<int>& temp,
-               vector<vector<int>>& ans) {
+    void combinations(int i, vector<int>& cur_comb,vector<vector<int>>& final_ans,vector<int>& candidates, int target) {
 
-        // Target mil gaya
         if (target == 0) {
-            ans.push_back(temp);
+            final_ans.push_back(cur_comb);
             return;
         }
 
-        // Target cross ho gaya
-        if (target < 0) {
-            return;
-        }
+        for (int j = i; j < candidates.size(); j++) {
 
-        for (int i = index; i < candidates.size(); i++) {
+            if (candidates[j] > target)
+                break;
 
-            // Current element choose
-            temp.push_back(candidates[i]);
+            cur_comb.push_back(candidates[j]);
 
-            // i hi pass kar rahe hain
-            // because same number dobara use kar sakte hain
-            solve(candidates, target - candidates[i],
-                  i, temp, ans);
+            // Same element can be used again
+            combinations(j, cur_comb, final_ans,
+                          candidates, target - candidates[j]);
 
-            // Backtrack
-            temp.pop_back();
+            cur_comb.pop_back(); // backtrack
         }
     }
 
-    vector<vector<int>> combinationSum(vector<int>& candidates,
-                                        int target) {
+    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
 
-        vector<vector<int>> ans;
-        vector<int> temp;
+        vector<int> cur_comb;
+        vector<vector<int>> final_ans;
 
-        solve(candidates, target, 0, temp, ans);
+        sort(candidates.begin(), candidates.end());
 
-        return ans;
+        combinations(0, cur_comb, final_ans, candidates, target);
+
+        return final_ans;
     }
 };
