@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0037-sudoku-solver](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0051-n-queens) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0217-contains-duplicate](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [2352-equal-row-and-column-pairs](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
 |  |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0078-subsets) |
@@ -246,5 +250,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
