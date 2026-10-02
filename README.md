@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0394-decode-string) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 ## Monotonic Stack
 |  |
