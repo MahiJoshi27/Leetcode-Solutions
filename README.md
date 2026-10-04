@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0394-decode-string) |
+| [0901-online-stock-span](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Hash Table
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0901-online-stock-span](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -267,8 +269,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
