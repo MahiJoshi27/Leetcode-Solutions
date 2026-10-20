@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1207-unique-number-of-occurrences](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 ## Queue
@@ -298,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
