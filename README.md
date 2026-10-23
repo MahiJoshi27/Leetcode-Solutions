@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
@@ -315,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0146-lru-cache) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
