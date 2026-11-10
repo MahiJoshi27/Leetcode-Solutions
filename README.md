@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0648-replace-words](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0648-replace-words) |
 | [0724-find-pivot-index](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0443-string-compression) |
+| [0648-replace-words](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0648-replace-words) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1268-search-suggestions-system](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0648-replace-words](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0648-replace-words) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1207-unique-number-of-occurrences](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -448,5 +451,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0648-replace-words](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0648-replace-words) |
 | [1268-search-suggestions-system](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 <!---LeetCode Topics End-->
