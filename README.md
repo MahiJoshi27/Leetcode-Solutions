@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Recursion
 |  |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0547-number-of-provinces](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0547-number-of-provinces](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
