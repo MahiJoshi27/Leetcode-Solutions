@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1207-unique-number-of-occurrences](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1657-determine-if-two-strings-are-close](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sliding Window
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0872-leaf-similar-trees](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0872-leaf-similar-trees](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0872-leaf-similar-trees](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Algorithm X
@@ -385,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Heap (Priority Queue)
