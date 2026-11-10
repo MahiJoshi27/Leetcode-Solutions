@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0112-path-sum) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0112-path-sum) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0112-path-sum) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/MahiJoshi27/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Range Minimum/Maximum Query
