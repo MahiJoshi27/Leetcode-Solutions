@@ -15,8 +15,7 @@ public:
         vector<int> arr1(n, -1);
         vector<int> arr2(n, -1);
         return max(
-            helper(0, n - 2, nums, arr1),
-            helper(1, n - 1, nums, arr2)
+            helper(0, n - 2, nums, arr1), helper(1, n - 1, nums, arr2)
         );
     }
 };
