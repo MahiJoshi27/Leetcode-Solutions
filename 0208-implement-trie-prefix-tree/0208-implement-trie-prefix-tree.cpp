@@ -1,12 +1,16 @@
 class Trie {
 public:
+
     struct Node {
         Node* links[26];
-        bool flag = false;
+        bool flag;
 
         Node() {
-            for(int i = 0; i < 26; i++)
+            for (int i = 0; i < 26; i++) {
                 links[i] = NULL;
+            }
+
+            flag = false;
         }
     };
 
@@ -16,46 +20,58 @@ public:
         root = new Node();
     }
 
+    // Insert word
     void insert(string word) {
+
         Node* node = root;
 
-        for(char ch : word) {
-            int idx = ch - 'a';
+        for (int i = 0; i < word.size(); i++) {
 
-            if(node->links[idx] == NULL)
-                node->links[idx] = new Node();
+            int index = word[i] - 'a';
 
-            node = node->links[idx];
+            if (node->links[index] == NULL) {
+                node->links[index] = new Node();
+            }
+
+            node = node->links[index];
         }
 
         node->flag = true;
     }
 
+    // Search complete word
     bool search(string word) {
+
         Node* node = root;
 
-        for(char ch : word) {
-            int idx = ch - 'a';
+        for (int i = 0; i < word.size(); i++) {
 
-            if(node->links[idx] == NULL)
+            int index = word[i] - 'a';
+
+            if (node->links[index] == NULL) {
                 return false;
+            }
 
-            node = node->links[idx];
+            node = node->links[index];
         }
 
         return node->flag;
     }
 
+    // Check prefix
     bool startsWith(string prefix) {
+
         Node* node = root;
 
-        for(char ch : prefix) {
-            int idx = ch - 'a';
+        for (int i = 0; i < prefix.size(); i++) {
 
-            if(node->links[idx] == NULL)
+            int index = prefix[i] - 'a';
+
+            if (node->links[index] == NULL) {
                 return false;
+            }
 
-            node = node->links[idx];
+            node = node->links[index];
         }
 
         return true;
