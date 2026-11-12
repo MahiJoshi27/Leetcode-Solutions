@@ -1,15 +1,24 @@
 class Solution {
 public:
     vector<vector<int>> findDifference(vector<int>& nums1, vector<int>& nums2) {
-        unordered_set<int > set1(nums1.begin(), nums1.end());
-        unordered_set<int > set2(nums2.begin(), nums2.end());
-        vector<int > arr1 , arr2;
-        for(int i:set1){
-            if(set2.find(i)==set2.end()) arr1.push_back(i);
+
+        unordered_set<int> s1(nums1.begin(), nums1.end());
+        unordered_set<int> s2(nums2.begin(), nums2.end());
+
+        vector<int> a, b;
+
+        for(auto x : s1) {
+            if(s2.find(x) == s2.end()) {
+                a.push_back(x);
+            }
         }
-        for(int i:set2){
-            if(set1.find(i)==set1.end()) arr2.push_back(i);
+
+        for(auto x : s2) {
+            if(s1.find(x) == s1.end()) {
+                b.push_back(x);
+            }
         }
-        return{arr1 , arr2};
+
+        return {a, b};
     }
 };
