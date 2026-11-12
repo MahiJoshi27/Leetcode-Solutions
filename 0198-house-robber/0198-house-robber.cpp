@@ -1,16 +1,27 @@
 class Solution {
 public:
-int helper(int i , vector<int>nums , vector<int>&arr){
-    if(i>=nums.size()) return 0;
-    if(arr[i]!=-1) return arr[i];
-    int pick=nums[i]+helper(i+2 , nums ,arr);
-    int not_pick=helper(i+1 , nums, arr);
-    arr[i]=max(pick , not_pick);
-    return arr[i];
-}
     int rob(vector<int>& nums) {
-        vector<int> arr(nums.size(), -1);
-        return helper(0 , nums,arr);
-        
+
+        int n = nums.size();
+
+        if (n == 1) {
+            return nums[0];
+        }
+
+        vector<int> dp(n);
+
+        dp[0] = nums[0];
+        dp[1] = max(nums[0], nums[1]);
+
+        for (int i = 2; i < n; i++) {
+
+            int rob = nums[i] + dp[i-2];
+
+            int skip = dp[i-1];
+
+            dp[i] = max(rob, skip);
+        }
+
+        return dp[n-1];
     }
 };
