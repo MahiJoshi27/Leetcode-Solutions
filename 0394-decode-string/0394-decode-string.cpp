@@ -2,52 +2,46 @@ class Solution {
 public:
     string decodeString(string s) {
 
-        stack<string> my_stack;
+        stack<int> countStack;
+        stack<string> stringStack;
+
+        string curr = "";
+        int num = 0;
 
         for(char ch : s) {
 
-            if(ch != ']') {
-                my_stack.push(string(1, ch));
+            if(isdigit(ch)) {
+                num = num * 10 + (ch - '0');
+            }
+
+            else if(ch == '[') {
+                countStack.push(num);
+                stringStack.push(curr);
+
+                num = 0;
+                curr = "";
+            }
+
+            else if(ch == ']') {
+
+                int k = countStack.top();
+                countStack.pop();
+
+                string prev = stringStack.top();
+                stringStack.pop();
+
+                while(k--) {
+                    prev += curr;
+                }
+
+                curr = prev;
             }
 
             else {
-
-                string temp = "";
-
-                while(my_stack.top() != "[") {
-                    temp = my_stack.top() + temp;
-                    my_stack.pop();
-                }
-
-                my_stack.pop();   // remove '['
-
-                string num = "";
-
-                while(!my_stack.empty() && isdigit(my_stack.top()[0])) {
-                    num = my_stack.top() + num;
-                    my_stack.pop();
-                }
-
-                int rep_num = stoi(num);
-
-                string rep_str = "";
-
-                while(rep_num) {
-                    rep_str = rep_str + temp;
-                    rep_num--;
-                }
-
-                my_stack.push(rep_str);
+                curr += ch;
             }
         }
 
-        string final_ans = "";
-
-        while(!my_stack.empty()) {
-            final_ans = my_stack.top() + final_ans;
-            my_stack.pop();
-        }
-
-        return final_ans;
+        return curr;
     }
 };
